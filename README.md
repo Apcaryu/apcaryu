@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Git Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apcaryu&theme=tokyonight&hide_langs_below=8&count_private=true&layout=compact)
 <!--
 **Apcaryu/apcaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
